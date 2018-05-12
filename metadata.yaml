@@ -1,5 +1,8 @@
 _repo: Robert-Louis-Stevenson_333
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Raleigh, Walter Alexander, Sir
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/185
     wikipedia: http://en.wikipedia.org/wiki/Walter_Raleigh_(professor)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/333#Robert-Louis-Stevenson
 gutenberg_issued: '1995-09-01'
 gutenberg_type: Text
 identifiers:
